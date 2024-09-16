@@ -256,11 +256,11 @@ nav ul li a:hover::after {
     display: block;
 }
 
-#experience ul li{
+#certifications ul li{
     list-style: square;
 }
 
-#experience ul li span{
+#certifications ul li span{
     color: #5ce1e6;
     font-size: 20px;
     margin: 10px 0;
@@ -511,11 +511,13 @@ nav .fa-solid{
 
 @media only  screen and (max-width: 600px){
     .header-text{
-        margin-top: 100%;
+        margin-top: 50%;
         font-size: 16px;
+        margin-bottom: 50%;
     }
     .header-text h1{
-        font-size: 30px;
+        font-size: 60px;
+        text-align: center;
     }
     .logo {
         font-size: 30px;
